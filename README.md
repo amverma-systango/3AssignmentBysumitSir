@@ -36,7 +36,7 @@ To contribute on Tax calculator
 ```sh
 https://github.com/nlgupta-systango/assignments_sumit_sir
 ```
- [Click here](https://github.com/nlgupta-systango/assignments_sumit_sir) for contribution
+ [Click here](https://github.com/amverma-systango/3AssignmentBysumitSir) for contribution
 
 
 
