@@ -1,6 +1,6 @@
 
 # Welcome to Tax calculator
-To calculate the tax percentage on the products  
+This project will calculate the product price after applying the tax on the actual price of the product and tell you whats the tax over head and the total cost of the product after overhead addition. The user just need to add two file in CSV formate. The user then in return gets a CSV file which can be opened in the MSExcel or any similar software.  
 
 ## Features
 
@@ -34,7 +34,7 @@ ProductCatalog file must contain column/header name as "ProductName","ProductCos
 To contribute on Tax calculator 
 
 ```sh
-https://github.com/nlgupta-systango/assignments_sumit_sir
+https://github.com/amverma-systango/3AssignmentBysumitSir
 ```
  [Click here](https://github.com/amverma-systango/3AssignmentBysumitSir) for contribution
 
