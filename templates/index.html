@@ -1,17 +1,36 @@
 {% extends 'base.html' %}
 
 
+
 {% block additionalHead %}
-  
+<link rel="stylesheet" type="text/css" href="./static/Css/index.css">
+
 {% endblock %}
 
 
-{% block title %}
-  Home - Tax calculator
-{% endblock %}
+
+
+{% block title %} title {% endblock %}
+
 
 
 
 {% block body %}
-  <h1>hello brother...no where to run</h1>
+
+<div class="container mx-auto my-3" style="background-color: transparent;">
+	<div class="row d-flex justify-content-center">
+		<div class="col-md-7 parentBox" id="rightBox" style="background-color: transparent;">
+			<h1 class="customHeading mt-5" id="mainHeading">Tax calculator</h1>
+			<br>
+			<h3 class="customHeading" id="subHeading">product tax calculator</h3>	
+
+			<div class="d-flex justify-content-center col-12 col-sm-8 col-md-4 mt-5 py-3 customButton" id="instructionBtn"><span>Instruction</span></div>
+		</div>
+
+		<div class="col-md-4 parentBox customHeading" id="leftBox">
+			<h1>Hello</h1>
+		</div>
+	</div>
+</div>
+
 {% endblock %}
